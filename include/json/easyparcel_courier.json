@@ -1,0 +1,141 @@
+{
+    "my":[
+        {
+           "id":"1",
+           "service_id":"",
+           "service_name":"",
+           "service_type":"parcel",
+           "courier_id":"cheaper",
+           "courier_name":"Cheapest Courier(s)",
+           "status":"1"
+        },
+        {
+            "id":"2",
+            "service_id":"",
+            "service_name":"",
+            "service_type":"parcel",
+            "courier_id":"all",
+            "courier_name":"All Couriers",
+            "status":"1"
+        },
+        {
+            "id":"3",
+            "service_id":"",
+            "service_name":"",
+            "service_type":"parcel",
+            "courier_id":"EP-CR0A",
+            "courier_name":"Poslaju National Courier",
+            "status":"1"
+        },
+        {
+            "id":"4",
+            "service_id":"",
+            "service_name":"",
+            "service_type":"parcel",
+            "courier_id":"EP-CR0O",
+            "courier_name":"Pgeon Delivery",
+            "status":"1"
+        },
+        {
+            "id":"5",
+            "service_id":"",
+            "service_name":"",
+            "service_type":"parcel",
+            "courier_id":"EP-CR0Z",
+            "courier_name":"CJ Logistics",
+            "status":"1"
+        },
+        {
+            "id":"6",
+            "service_id":"",
+            "service_name":"",
+            "service_type":"parcel",
+            "courier_id":"EP-CR0C",
+            "courier_name":"DHL eCommerce'",
+            "status":"1"
+        },
+        {
+            "id":"7",
+            "service_id":"",
+            "service_name":"",
+            "service_type":"parcel",
+            "courier_id":"EP-CR03",
+            "courier_name":"Aramex",
+            "status":"1"
+        },
+        {
+            "id":"8",
+            "service_id":"",
+            "service_name":"",
+            "service_type":"parcel",
+            "courier_id":"EP-CR0W",
+            "courier_name":"SnT Global",
+            "status":"1"
+        },
+        {
+            "id":"9",
+            "service_id":"",
+            "service_name":"",
+            "service_type":"parcel",
+            "courier_id":"EP-CR0J",
+            "courier_name":"Ultimate Consolidators (Support only EM)",
+            "status":"1"
+        },
+        {
+            "id":"10",
+            "service_id":"",
+            "service_name":"",
+            "service_type":"parcel",
+            "courier_id":"EP-CR0D",
+            "courier_name":"Airpak",
+            "status":"1"
+        },
+        {
+            "id":"11",
+            "service_id":"",
+            "service_name":"",
+            "service_type":"parcel",
+            "courier_id":"EP-CR0AL",
+            "courier_name":"Teleport (Support only EM)",
+            "status":"1"
+        },
+        {
+            "id":"12",
+            "service_id":"",
+            "service_name":"",
+            "service_type":"parcel",
+            "courier_id":"EP-CR05",
+            "courier_name":"Skynet",
+            "status":"1"
+        },
+        {
+            "id":"13",
+            "service_id":"",
+            "service_name":"",
+            "service_type":"parcel",
+            "courier_id":"EP-CR0DP",
+            "courier_name":"J&T Express",
+            "status":"1"
+        }
+     ],
+     "sg":[
+        {
+           "id":"1",
+           "service_id":"",
+           "service_name":"",
+           "service_type":"parcel",
+           "courier_id":"cheaper",
+           "courier_name":"Cheapest Courier(s)",
+           "status":"1"
+        },
+        {
+            "id":"2",
+            "service_id":"",
+            "service_name":"",
+            "service_type":"parcel",
+            "courier_id":"all",
+            "courier_name":"All Couriers",
+            "status":"1"
+        }
+     ]
+}
